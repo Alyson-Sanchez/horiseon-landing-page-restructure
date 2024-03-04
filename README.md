@@ -4,4 +4,4 @@
 <p>Horiseon is a company that provides information regarding social marketing. When given the initial code, I found it was missing alternative text for the images, and most of the html elements were 'div' tags, which can make things messy in the accompanying CSS file.</p> 
   <p>The application can be run via any browser, and can be navigated via scrolling, or clicking on the three phrases on the navigation bar. </p> 
 
-
+Original code was provided by: UCF- Coding Bootcamp.
